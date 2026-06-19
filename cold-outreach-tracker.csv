@@ -1,0 +1,6 @@
+Date Added,Company,Contact Name,Role,Email,LinkedIn / Source,Segment,ICP Fit (1-5),Status,Touch #,Last Touch Date,Next Touch Date,Channel,Opened?,Replied?,Reply Sentiment,Booked Call?,Won?,Deal Value (USD),Notes
+2026-06-01,Acme Tools,Jane Doe,Head of Ops,jane@acme.example,linkedin.com/in/janedoe,SaaS 11-50,5,Replied,2,2026-06-05,2026-06-12,Email,Yes,Yes,Positive,No,No,,Asked for pricing — send tier sheet
+2026-06-02,Bright Studio,Sam Lee,Founder,sam@bright.example,coldlist-batch-3,Agency 1-10,4,Sequenced,1,2026-06-04,2026-06-08,Email,Yes,No,,No,No,,Opened 3x no reply — bump with case study
+2026-06-03,Nimbus Co,Alex Park,CTO,alex@nimbus.example,apollo,SaaS 51-200,3,Bounced,1,2026-06-03,,Email,No,No,,No,No,,Hard bounce — verify before re-add
+,,,,,,,,New,,,,,,,,,,,
+,,,,,,,,New,,,,,,,,,,,
