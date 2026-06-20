@@ -35,7 +35,8 @@ playbook that most templates leave out:
 - A 5-minute setup guide with **6 paste-ready dashboard formulas** + conditional-formatting that
   turns the sheet into a live dashboard with overdue-follow-up alerts.
 
-→ Link in repo description / coming with the launch.
+**→ Get the full Cold Outreach Tracker + SOP — $9.99, instant download:**
+https://charliemorrison.lemonsqueezy.com/checkout/buy/5649e792-d6e1-4996-ae16-547d811ef9ef
 
 ## License
 Free to use for your own outreach. Don't resell or redistribute the file as your own product.
