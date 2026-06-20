@@ -3,6 +3,8 @@
 A free, no-CRM, single-sheet system for running cold outreach that actually books calls.
 Import the CSV into Google Sheets or Excel and you have a working pipeline in 5 minutes.
 
+![Cold Outreach Tracker preview](assets/tracker-preview.png)
+
 ## What's here (free)
 - **`cold-outreach-tracker.csv`** — a 20-column tracker built around the only metrics that move
   revenue: ICP fit, a 4-touch cadence, reply sentiment, booked calls, and pipeline value.
