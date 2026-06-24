@@ -1,7 +1,12 @@
-# Cold Outreach Tracker (Free)
+# Cold Outreach Tracker (Free) — Sales / Lead Tracker Spreadsheet for Google Sheets
 
-A free, no-CRM, single-sheet system for running cold outreach that actually books calls.
-Import the CSV into Google Sheets or Excel and you have a working pipeline in 5 minutes.
+A free **sales tracker / lead tracking spreadsheet** and lightweight **CRM template** for
+Google Sheets (or Excel) — a no-CRM, single-sheet system for running cold outreach and a
+sales pipeline that actually books calls. Import the CSV and you have a working pipeline in
+5 minutes. No add-ons, no $99/mo CRM.
+
+**Good for:** cold email tracking · lead generation tracker · sales pipeline template ·
+follow-up reminders — for freelancers, SDRs, and founders doing their own outreach.
 
 ![Cold Outreach Tracker preview](assets/tracker-preview.png)
 
