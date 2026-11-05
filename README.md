@@ -45,5 +45,7 @@ playbook that most templates leave out:
 **→ Get the full Cold Outreach Tracker + SOP — $9.99, instant download:**
 https://charliemorrison.lemonsqueezy.com/checkout/buy/5649e792-d6e1-4996-ae16-547d811ef9ef
 
+Details (what's in each file, free vs paid): https://charliemorrison.dev/cold-outreach-tracker/
+
 ## License
 Free to use for your own outreach. Don't resell or redistribute the file as your own product.
